@@ -1,6 +1,6 @@
 # grafeas-cli
 
-Initial experiment -- not sure if it will be useful yet, just using this as a place to save my code across computers for now.
+Initial experiment -- not sure if this will be useful yet, just using this as a place to save my code across computers for now.
 
 Temporary workaround for `vendor/` type issues:
 
